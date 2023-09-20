@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as p,Q as o}from"./chunks/framework.a9d1f0e8.js";const n="/assets/error_01.0adaf753.png",u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"3.md","filePath":"3.md"}'),l={name:"3.md"},e=o("",15),t=[e];function r(c,i,_,d,E,y){return a(),p("div",null,t)}const m=s(l,[["render",r]]);export{u as __pageData,m as default};
